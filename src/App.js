@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 
-const url = "http://localhost:5000";
+const url = "https://mern-todolist-server.onrender.com" //"http://localhost:5000";
 
 function App() {
 
